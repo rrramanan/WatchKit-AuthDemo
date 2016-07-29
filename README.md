@@ -6,7 +6,8 @@ watchOS 3 - User Authentication Watch app (Standalone)
 <li>Select Mail button to bring textinputcontroller & choose scribble mode</li>
 <li>Select Pass button to bring textinputcontroller & choose scribble mode</li>
 <li>Select login button to authenticate</li>
-<li>For quick testing I've added correct credentials in textinputcontroller suggestions for mail/password</li>
+<li>For quick testing I've added correct/incorrect credentials in textinputcontroller suggestions for mail/password</li>
+<li>Correct credentials test@mail.com/123</li>
 </ul>
 
 ![alt Tab](https://github.com/rrramanan/WatchKit-AuthDemo/blob/master/Home.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
