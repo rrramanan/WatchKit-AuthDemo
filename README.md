@@ -3,7 +3,7 @@ watchOS 3 - User authentication from watch app (Standalone)
 
 <B>Log In Steps</B>
 <ul>
-<li>Select Mail button to bring textinputcontroller & choose scribble to enter mailID</li>
+<li>Select Mail button to bring textinputcontroller & choose scribble to enter mail ID</li>
 <li>Select Pass button to bring textinputcontroller & choose scribble to enter password</li>
 <li>Select login button to authenticate</li>
 <li>For quick testing I've added correct/incorrect credentials in textinputcontroller suggestions for mail/password</li>
