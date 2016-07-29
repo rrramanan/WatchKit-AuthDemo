@@ -16,7 +16,7 @@ watchOS 3 - User Authentication Watch app (Standalone)
 
 <B>After Login </B><br>
 After correct authentication will bring table view enabled with item pagination. Tap a row to move next page & scroll vertical to view
-rest data. Enable item pagination in table's attributes inspector. Works only with segue.
+rest item. Enable item pagination in table's attributes inspector. Works only with segue.
 <br><br>
 <B>Logout</B><br>
 Force touch in table view to bring logout option.
