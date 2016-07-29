@@ -1,5 +1,5 @@
 # WatchKit-AuthDemo
-watchOS 3 - User Authentication Watch app (Standalone)
+watchOS 3 - User authentication from watch app (Standalone)
 
 <B>Log In Steps</B>
 <ul>
