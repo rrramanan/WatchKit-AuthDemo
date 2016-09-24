@@ -7,7 +7,7 @@ Created with #Xcode8 Beta 2
 <li>Select Mail button to bring textinputcontroller & choose scribble to enter mail ID</li>
 <li>Select Pass button to bring textinputcontroller & choose scribble to enter password</li>
 <li>Select login button to authenticate</li>
-<li>For quick testing I've added correct/incorrect credentials in textinputcontroller suggestions for mail/password</li>
+<li>For quick testing I've added correct/incorrect credentials in textinputcontroller suggestions</li>
 <li>Correct credential test@mail.com/123</li>
 </ul>
 
